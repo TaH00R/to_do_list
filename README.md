@@ -16,10 +16,6 @@ A sleek and modern **To-Do List application** with a glassmorphic design. This a
 
 ## Screenshots
 
-## Screenshots
-
-## Screenshots
-
 <div align="center">
 <table>
   <tr>
