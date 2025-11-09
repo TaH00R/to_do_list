@@ -16,17 +16,33 @@ A sleek and modern **To-Do List application** with a glassmorphic design. This a
 
 ## Screenshots
 
-### Homepage
-![Homepage](sampleimages/homepage.png)
+## Screenshots
 
-### Deleted Tasks
-![Deleted Tasks](sampleimages/deleted.png)
+## Screenshots
 
-### Add New Task
-![Add New Task](sampleimages/newtask.png)
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <img src="sampleimages/homepage.png" width="200px" /><br>
+      Homepage
+    </td>
+    <td align="center">
+      <img src="sampleimages/deleted.png" width="200px" /><br>
+      Deleted Tasks
+    </td>
+    <td align="center">
+      <img src="sampleimages/newtask.png" width="200px" /><br>
+      Add New Task
+    </td>
+    <td align="center">
+      <img src="sampleimages/search.png" width="200px" /><br>
+      Search Tasks
+    </td>
+  </tr>
+</table>
+</div>
 
-### Search Tasks
-![Search Tasks](sampleimages/search.png)
 
 ---
 
